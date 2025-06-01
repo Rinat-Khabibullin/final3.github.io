@@ -61,7 +61,7 @@ CONTAINER BRANDS */
   padding-left: 16px;
   font-weight: 500;
   font-size: 0;
-  background: url(img/go.svg) no-repeat 90% 50%;
+  background: url(/src/img/go.svg) no-repeat 90% 50%;
   background-color: var(--white);
 }
 .swiper-slide:hover {
@@ -139,7 +139,7 @@ CONTAINER BRANDS */
   .readMore__button-icon {
     position: absolute;
     left: 0;
-    background: url(img/expand.svg) no-repeat 50% 50%;
+    background: url(/src/img/expand.svg) no-repeat 50% 50%;
     width: 24px;
     height: 24px;
   }

@@ -5,7 +5,7 @@ ____________________________________________
 ____________________________________________
 CONTAINER PRICE */
 #container-prices .swiper-slide {
-  background-image: url(img/order.svg);
+  background-image: url(/src/img/order.svg);
   background-position: 90% 85%;
   width: 260px;
   height: 200px;
@@ -62,7 +62,7 @@ CONTAINER PRICE */
 }
 .textInform__logo {
   display: inline-block;
-  background-image: url(img/more.svg);
+  background-image: url(/src/img/more.svg);
   width: 24px;
   height: 28px;
   vertical-align: bottom;

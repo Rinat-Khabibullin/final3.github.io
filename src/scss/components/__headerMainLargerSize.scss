@@ -17,15 +17,15 @@
     margin-right: 22px;
   }
   .round-icon--call {
-    background-image: url(img/call.svg);
+    background-image: url(/src/img/call.svg);
     background-repeat: no-repeat;
     background-position: 50% 50%;
   }
   .round-icon--chat {
-    background-image: url(img/chat.svg);
+    background-image: url(/src/img/chat.svg);
   }
   .round-icon--profile {
-    background-image: url(img/men.svg);
+    background-image: url(/src/img/men.svg);
     background-repeat: no-repeat;
     background-position: 50% 50%;
   }
@@ -140,13 +140,13 @@
     margin: 0 auto;
   }
   .round-icon--bid {
-    background-image: url(img/bid.svg);
+    background-image: url(/src/img/bid.svg);
     background-repeat: no-repeat;
     background-position: 50%;
     margin-left: 8px;
   }
   .round-icon--status {
-    background-image: url(img/status.svg);
+    background-image: url(/src/img/status.svg);
     background-repeat: no-repeat;
     background-position: 50%;
     margin-left: 8px;

@@ -48,13 +48,13 @@
   opacity: 60%;
 }
 .left__burger {
-  background: url(img/exit.svg) no-repeat;
+  background: url(/src/img/exit.svg) no-repeat;
 }
 .header__search {
-  background: url(img/search.svg) no-repeat;
+  background: url(/src/img/search.svg) no-repeat;
 }
 .left__logo {
-  background: url(img/Grouplogo.svg) no-repeat;
+  background: url(/src/img/Grouplogo.svg) no-repeat;
   border: none;
   width: 97px;
   height: 51px;
@@ -94,7 +94,7 @@
 }
 .list__item-active a::before {
   content: "";
-  background-image: url(img/highlight.svg);
+  background-image: url(/src/img/highlight.svg);
   height: 32px;
   width: 4px;
   position: absolute;
@@ -119,13 +119,13 @@ margin-top: 50px;
 }
 
 .aside__footer .icon-call {
-  background: url(img/call2.svg) no-repeat 50% 50%;
+  background: url(/src/img/call2.svg) no-repeat 50% 50%;
 }
 .aside__footer .icon-chat {
-  background: url(img/chat.svg) no-repeat;
+  background: url(/src/img/chat.svg) no-repeat;
 }
 .aside__footer .icon-profile {
-  background: url(img/profile.svg) no-repeat;
+  background: url(/src/img/profile.svg) no-repeat;
 }
 .aside__footer .contacts__email {
   display: block;

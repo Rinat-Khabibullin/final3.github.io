@@ -74,7 +74,7 @@
 .modal__closeBtn {
     width: 40px;
     height: 40px;
-    background-image: url(img/exit.svg);
+    background-image: url(/src/img/exit.svg);
     border: none;
     border-radius: 50%;
     transition: opacity, 0.3s;
@@ -99,7 +99,7 @@
 
     top: -2px;
     left: -16px;
-    background-image: url(img/highlight.svg);
+    background-image: url(/src/img/highlight.svg);
 
 }
 .modal__form a {
@@ -111,7 +111,7 @@
 .modal .content__submit {
     width: 136px;
     height: 32px;
-    background-image: url(img/btnPush.svg);
+    background-image: url(/src/img/btnPush.svg);
     border: none;
     border-radius: 15px;
     align-self: flex-end;
